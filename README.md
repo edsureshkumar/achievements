@@ -1,16 +1,41 @@
 # achievements
 This repository contains my internship certificate and professional achievements.
 
-# Internship Certificate
-## Quality Control Internship
 
+# Professional Certifications & Skills
 
-## Skills Gained
-- Manual Testing
+This repository contains my professional certificates and the skills I have gained.
+
+---
+
+## 📜 Certificates Included
+- **Quality Control Internship** – MarkAny
+- **Python Programming** – 
+- **SQL Fundamentals** 
+- **Manual Testing** 
+- **Networking & CCNA** 
+
+---
+
+## ✅ Skills Gained
+### 🔹 Python
+- Programming Concepts
+- Writing Scripts
+- Problem Solving
+
+### 🔹 SQL
+- Query Writing
+- Joins and Aggregations
+- Database Management
+
+### 🔹 Manual Testing
+- Test Case Design
 - Web Application Testing
-- Quality Control Processes
-- Defect Reporting and Documentation
+- Bug Reporting
 
-- **Company:** MarkAny Co., Ltd.
-- **Duration:** August 1, 2024 – October 30, 2024
-- **Role:** QC Intern
+### 🔹 Networking & CCNA
+- Network Configuration
+- Routing & Switching
+- Security Fundamentals
+
+---
