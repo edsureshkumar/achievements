@@ -38,4 +38,13 @@ This repository contains my professional certificates and the skills I have gain
 - Routing & Switching
 - Security Fundamentals
 
+### 🔹 Microsoft Azure Data Fundamentals (DP-900)
+- Platform: Udemy
+
+### 🔹 Data Warehouse ETL Testing & Data Quality Management (A-Z)
+- Platform: Udemy
+
+### 🔹 Data Warehouse Fundamentals for Beginners
+- Platform: Udemy
+
 ---
